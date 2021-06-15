@@ -6,8 +6,8 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
-url: https://gachtrangtri.github.io/index/
+title: Blog gạch trang trí
+url: https://gachtrangtri.github.io/index
 
 # Your name to show in the footer
 author: Some Person
@@ -15,8 +15,8 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Giới thiệu: "aboutme"
+  Liên kết:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
